@@ -18,6 +18,9 @@ public class Calculator {
     }
 
     // TODO: Create exponent method
+    public static double exponent(double base, double exponent) {
+        return Math.pow(base, exponent);
+    }
 
     // TODO: Create
 
